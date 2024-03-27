@@ -1,0 +1,9 @@
+{
+	"user": {
+		"_id": "6508e989508b3b7ecbebe5bc",
+		"email": "1234@test.ru",
+		"isAdmin": false
+	},
+	"refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NTA4ZTk4OTUwOGIzYjdlY2JlYmU1YmMiLCJpYXQiOjE2OTUwODI4ODksImV4cCI6MTY5NjM3ODg4OX0.sWrEWCrQ24EvLo9EeH75jRzvkE9CiSKmPZF7yaLvWws",
+	"accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NTA4ZTk4OTUwOGIzYjdlY2JlYmU1YmMiLCJpYXQiOjE2OTUwODI4ODksImV4cCI6MTY5NTA4NjQ4OX0.6Y7qJNfVrgsvkUIQX9a2g-GieLw3dVwnh_qwV7rso94"
+}
