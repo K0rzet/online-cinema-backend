@@ -13,7 +13,7 @@ import {
 	UsePipes,
 	ValidationPipe,
 } from '@nestjs/common'
-import { Auth } from 'src/auth/decorators/Auth.decorator'
+import { Auth } from 'src/auth/decorators/auth.decorator'
 import { CreateGenreDto } from './dto/create-genre.dto'
 import { GenreService } from './genre.service'
 import { IdValidationPipe } from 'src/user/pipes/id.validation.pipe'

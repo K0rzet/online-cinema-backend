@@ -12,7 +12,7 @@ import {
 	UsePipes,
 	ValidationPipe,
 } from '@nestjs/common'
-import { Auth } from 'src/auth/decorators/Auth.decorator'
+import { Auth } from 'src/auth/decorators/auth.decorator'
 import { ActorService } from './actor.service'
 import { IdValidationPipe } from 'src/user/pipes/id.validation.pipe'
 import { ActorDto } from './actor.dto'
